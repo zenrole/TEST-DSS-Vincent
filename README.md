@@ -3,7 +3,9 @@
 How to run :
 
 1). Install IntelliJ
+
 2). Download File this project
+
 3). If its not done yet, please install postgres v.11
 3). Open PG Admin (or any Database Administrator for Postgre)
 4). Open PG Admin and create new connection for postgre with the credential below :
