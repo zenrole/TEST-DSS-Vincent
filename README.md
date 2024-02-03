@@ -39,6 +39,9 @@ look at this image.
 Endpoint :
 
 localhost:8080/karyawan | GET METHOD | Get all karyawan
+
 localhost:8080/karyawan/{id} | GET METHOD | Get karyawan based on ID
+
 localhost:8080/karyawan | POST METHOD | Insert new karyawan
+
 locallhost:8080/karyawan/{id} | DELETE METHOD | Delete karyawan based on ID
