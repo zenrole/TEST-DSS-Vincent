@@ -11,9 +11,13 @@ How to run :
 4). Open PG Admin (or any Database Administrator for Postgre)
 
 5). Open PG Admin and create new connection for postgre with the credential below :
+    
     a. Hostname : simple-project.postgres.database.azure.com
+    
     b. database name : test-dss
+    
     c. username : luviana7
+    
     d. password : Saykoji1313
 
 look at this image.
